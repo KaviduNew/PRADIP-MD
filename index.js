@@ -81,11 +81,8 @@ let up = `🚀 *_PRADIP-MD Connected Successfully!_* ✅
 
 _Thank you for using_ *😺PRADIP-MD😺.*
 _We're here to make your experience enjoyable and seamless._
-_If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
-*🖇️Join My WhatsApp Channel✓💗 - :* 🤫
-
-*🖇️Subscribe My Youtube Channel✓💗 - :* 🤫
+_𝙨𝙥𝙚𝙘𝙞𝙖𝙡 𝙩𝙝𝙖𝙣𝙠𝙨 - 𝚗𝚊𝚍𝚎𝚎𝚗*🔰*
 
 _*🕺Enjoy your time with us!😊*_
 

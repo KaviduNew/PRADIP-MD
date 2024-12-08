@@ -91,7 +91,7 @@ _*🕺Enjoy your time with us!😊*_
 
 *😼𝗣𝗥𝗔𝗗𝗜𝗣-𝗠𝗗 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗞𝗔𝗩𝗜𝗗𝗨 𝗥𝗔𝗦𝗔𝗡𝗚𝗔😼* `;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `` }, caption: up })//======𝗶𝗺𝗴..
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/JCByNJ4/adb435400eafa402.jpg` }, caption: up })//======𝗶𝗺𝗴..
 
 }
 })

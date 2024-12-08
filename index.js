@@ -71,7 +71,7 @@ console.log('Bot connected to whatsapp ✅')
 
 let up = `🚀 *_PRADIP-MD Connected Successfully!_* ✅ 
 
---- *🎉 _Welcome to NADEEN-MD!_* 🎉 
+--- *🫣 _Welcome to PRADIP-MD!_* 🫣 
 
 *✨ PREFIX:* ${prefix}
 
